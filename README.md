@@ -1,4 +1,4 @@
-# Data_Science_Projects
+# Data Science Projects
 
 Projects I worked on for each sprint while attending the Data Scientist TripleTen Bootcamp.
 
@@ -20,4 +20,4 @@ Projects I worked on for each sprint while attending the Data Scientist TripleTe
 | 13 | [Sweet Lift Taxi Order ML Prediciton](https://github.com/skphi13/Sweet_Lift_Taxi_Order_ML_Prediction) | To attract more drivers during peak hours, we need to predict the number of taxi orders for the next hour. Build a model for such a prediction. | Time Series Analysis & Forecasting
 | 14 | [Film Junky Union Negative Review Model](https://github.com/skphi13/Film-Junky-Union-Negative-Review-Detection) | The Film Junky Union, a new edgy community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to detect negative reviews automatically. | Machine Learning for Texts, Text Vectorization, Language Representations
 | 15 | [Computer Vision Age Detection Model](https://github.com/skphi13/Machine_Vision_Age_Detection) | The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to underage people. We will build a model with the ImageDataGenerator and a GPU Platform to train the model. | Computer Vision, Fully Connected networks, Convolutional Neural Networks
-| 16 | [Interconnect Telecom Customer Churn]() | The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to underage people. We will build a model with the ImageDataGenerator and a GPU Platform to train the model. | *Final Project*
+| 16 | [Interconnect Telecom Customer Churn](https://github.com/skphi13/Interconnect_Telecom_Churn) | The objective of this project is to forecast customer churn for the telecom operator Interconnect, enabling targeted retention strategies such as promotional offers and customized plans. The analysis leverages customer demographics, contract details, and service usage data, focusing on identifying churn patterns. Key tasks include data preprocessing, exploratory analysis, feature engineering, and predictive modeling. The primary evaluation metric is AUC-ROC, with a baseline target of at least 0.85 to guide model performance. | *Final Project*
